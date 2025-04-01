@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Indeebar
-- 👀 I’m interested in competetive coding and app development
-- 🌱 I’m currently learning Full stack development
+- 👀 I’m interested in competetive coding and web development,ML,Deep Learning
+- 🌱 I’m currently learning ML.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me indeebarray@gmail.com
 
